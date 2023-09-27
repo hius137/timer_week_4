@@ -1,6 +1,6 @@
 # timer_week_4
 
-A new Flutter project.
+State Management with Cubit.
 
 ## Getting Started
 
